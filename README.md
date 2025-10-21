@@ -16,6 +16,9 @@ __How to use?:__ (use the arrow keys on the keyboard)
 
 ## Brand New Fixes 
 Tools: Open Task Manager, Open Hosts File
+--------------------------------------------------------------------------------------------------------------------------------------------
 One-Click Repairs: basic repair, network fixes, windows update fix, audio repair, MS Store Repair, GPU Cache Fix, Privacy Debloat (Lite)
+--------------------------------------------------------------------------------------------------------------------------------------------
 Log menu (History)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
